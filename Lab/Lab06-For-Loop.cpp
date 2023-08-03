@@ -31,6 +31,7 @@ int main() {
         for(i=N; i>=0; i-=2){
         printf("%d ",i);
         }
+        printf("\n");
     }
     
     //--| YOUR CODE HERE
